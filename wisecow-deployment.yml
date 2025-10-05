@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: wisecow
-        image: wisecow:latest
+        image: mohammedirfan123/wisecow:latest
         imagePullPolicy: always   
         ports:
         - containerPort: 4499
